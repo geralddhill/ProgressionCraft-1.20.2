@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "steel_ingot",
+  "ingredients": [
+    {
+      "item": "progressioncraft:steel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "progressioncraft:steel_ingot"
+  }
+}

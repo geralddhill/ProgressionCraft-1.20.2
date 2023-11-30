@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "progressioncraft:stray_helmet",
+    "progressioncraft:stray_chestplate",
+    "progressioncraft:stray_leggings"
+  ]
+}

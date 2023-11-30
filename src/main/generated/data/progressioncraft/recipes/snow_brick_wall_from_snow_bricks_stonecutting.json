@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "progressioncraft:snow_bricks"
+  },
+  "result": "progressioncraft:snow_brick_wall"
+}

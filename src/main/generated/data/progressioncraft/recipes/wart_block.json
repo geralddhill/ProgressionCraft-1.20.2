@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "progressioncraft:wart"
+    },
+    {
+      "item": "progressioncraft:wart"
+    },
+    {
+      "item": "progressioncraft:wart"
+    },
+    {
+      "item": "progressioncraft:wart"
+    },
+    {
+      "item": "progressioncraft:wart"
+    },
+    {
+      "item": "progressioncraft:wart"
+    },
+    {
+      "item": "progressioncraft:wart"
+    },
+    {
+      "item": "progressioncraft:wart"
+    },
+    {
+      "item": "progressioncraft:wart"
+    }
+  ],
+  "result": {
+    "item": "progressioncraft:wart_block"
+  }
+}

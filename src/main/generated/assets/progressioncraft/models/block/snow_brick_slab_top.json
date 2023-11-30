@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "progressioncraft:block/snow_bricks",
+    "side": "progressioncraft:block/snow_bricks",
+    "top": "progressioncraft:block/snow_bricks"
+  }
+}

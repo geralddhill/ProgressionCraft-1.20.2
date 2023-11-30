@@ -3,7 +3,11 @@
 	"package": "com.getblockt.progressioncraft.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"SoulFireBlockMixin"
+	],
+	"server": [
+
 	],
 	"injectors": {
 		"defaultRequire": 1

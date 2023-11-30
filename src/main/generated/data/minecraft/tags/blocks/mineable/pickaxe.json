@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "progressioncraft:snow_brick_slab",
+    "progressioncraft:snow_brick_stairs",
+    "progressioncraft:snow_brick_wall",
+    "progressioncraft:snow_bricks",
+    "progressioncraft:steel_block"
+  ]
+}

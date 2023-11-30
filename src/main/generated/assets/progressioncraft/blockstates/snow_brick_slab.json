@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "progressioncraft:block/snow_brick_slab"
+    },
+    "type=double": {
+      "model": "progressioncraft:block/snow_bricks"
+    },
+    "type=top": {
+      "model": "progressioncraft:block/snow_brick_slab_top"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+// 1.20.2	2023-11-04T02:47:28.052071	ProgressionCraft/Tags for minecraft:block
+e92c28a7a57462e43e042fb768fdcd909111f0e5 data/minecraft/tags/blocks/replaceable.json
+d3b02cbab3f76b1e0028b9095ff96a76a96e6251 data/minecraft/tags/blocks/slabs.json
+9600d7dc8cf681535c6d5f30293215698ed11cde data/minecraft/tags/blocks/walls.json
+e92c28a7a57462e43e042fb768fdcd909111f0e5 data/minecraft/tags/blocks/fire.json
+87c9b76c737a8e6e5f09e4f1b8f08f920d6debf8 data/minecraft/tags/blocks/beacon_base_blocks.json
+4aadc1dae35935193dc8936728f1dafbf7443e27 data/minecraft/tags/blocks/mineable/axe.json
+0fe2e367b3692bedecca70adbba9b52d7bd716db data/minecraft/tags/blocks/mineable/hoe.json
+3608336e65a728898564ce3d41a09c873ce7f9c5 data/minecraft/tags/blocks/mineable/pickaxe.json
+4aadc1dae35935193dc8936728f1dafbf7443e27 data/minecraft/tags/blocks/sword_efficient.json
+08b0210a6a27c4d3ec6fdd366301ddfab8a86461 data/minecraft/tags/blocks/stairs.json
+87c9b76c737a8e6e5f09e4f1b8f08f920d6debf8 data/minecraft/tags/blocks/needs_iron_tool.json

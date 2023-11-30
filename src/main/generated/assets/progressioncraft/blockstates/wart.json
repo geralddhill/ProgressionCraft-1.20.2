@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "progressioncraft:block/wart_stage0"
+    },
+    "age=1": {
+      "model": "progressioncraft:block/wart_stage1"
+    },
+    "age=2": {
+      "model": "progressioncraft:block/wart_stage1"
+    },
+    "age=3": {
+      "model": "progressioncraft:block/wart_stage2"
+    }
+  }
+}

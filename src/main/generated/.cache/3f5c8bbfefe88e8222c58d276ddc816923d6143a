@@ -1,0 +1,12 @@
+// 1.20.2	2023-11-04T02:47:28.058801	ProgressionCraft/Tags for minecraft:item
+068037654320edffd9638caf56bffd69f1f91294 data/minecraft/tags/items/cluster_max_harvestables.json
+9de407336eb23da69ceb7b6d29d396b678b7a896 data/minecraft/tags/items/freeze_immune_wearables.json
+5b785a674598e2e899411382bc432a528d443fe7 data/minecraft/tags/items/beacon_payment_items.json
+068037654320edffd9638caf56bffd69f1f91294 data/minecraft/tags/items/pickaxes.json
+68ee689d41e781c04395282dbd796e204f116c9e data/minecraft/tags/items/axes.json
+7144fb5d688a5786294b2f5b00d1c40910932c74 data/minecraft/tags/items/swords.json
+9de407336eb23da69ceb7b6d29d396b678b7a896 data/minecraft/tags/items/trimmable_armor.json
+1a932b978cb0fe344f57b0b2cce0587df66b7c7c data/minecraft/tags/items/hoes.json
+ec8bbc5c82e856a67c5553bb4ca034a4d165c704 data/c/tags/items/ingots.json
+abd67bc3b152d18e3ce5a89c42032a9e5778430f data/minecraft/tags/items/creeper_igniters.json
+b80a954b892461fc5d34071a6c9c2978ff9b3c7f data/minecraft/tags/items/shovels.json

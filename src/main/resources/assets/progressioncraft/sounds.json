@@ -1,0 +1,18 @@
+{
+  "entity_conjured_slime_hurt": {
+    "subtitle": "subtitles.progressioncraft.entity_conjured_slime_hurt",
+    "sounds": [
+      "progressioncraft:entity_conjured_slime_hurt1",
+      "progressioncraft:entity_conjured_slime_hurt2",
+      "progressioncraft:entity_conjured_slime_hurt3",
+      "progressioncraft:entity_conjured_slime_hurt4"
+    ]
+  },
+  "entity_conjured_slime_death": {
+    "subtitle": "subtitles.progressioncraft.entity_conjured_slime_death",
+    "sounds": [
+      "progressioncraft:entity_conjured_slime_death1",
+      "progressioncraft:entity_conjured_slime_death2"
+    ]
+  }
+}

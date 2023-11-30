@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "progressioncraft:block/wart_stage0"
+  }
+}
